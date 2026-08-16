@@ -29,5 +29,5 @@ The system includes a **Critical Load Warning** triggered at 800 kg to simulate 
    ```bash
    pip install matplotlib
 
-##👨‍💻 Developer
+👨‍💻 Developer
 Ege Zabun - Mechanical Engineering Student
