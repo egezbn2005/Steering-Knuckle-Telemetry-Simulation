@@ -1,0 +1,64 @@
+
+--- YENİ TEST SÜRÜŞÜ: 2026-08-16 17:55:19 ---
+[17:55:19] Hız: 094 km/h | Rot Açısı: -21.51° | Süspansiyon Yükü: 661.52 kg
+[17:55:20] Hız: 103 km/h | Rot Açısı:  23.57° | Süspansiyon Yükü: 577.53 kg
+[17:55:21] Hız: 031 km/h | Rot Açısı:   9.45° | Süspansiyon Yükü: 368.80 kg
+[17:55:22] Hız: 093 km/h | Rot Açısı: -17.53° | Süspansiyon Yükü: 598.03 kg
+[17:55:23] Hız: 108 km/h | Rot Açısı:   0.83° | Süspansiyon Yükü: 887.12 kg  ⚠️ KRİTİK UYARI: Limit aşıldı!
+[17:55:24] Hız: 020 km/h | Rot Açısı: -21.17° | Süspansiyon Yükü: 284.38 kg
+[17:55:25] Hız: 068 km/h | Rot Açısı:  25.69° | Süspansiyon Yükü: 782.75 kg
+[17:55:26] Hız: 096 km/h | Rot Açısı:   2.45° | Süspansiyon Yükü: 298.94 kg
+[17:55:27] Hız: 101 km/h | Rot Açısı:   0.83° | Süspansiyon Yükü: 408.91 kg
+[17:55:28] Hız: 117 km/h | Rot Açısı:   3.17° | Süspansiyon Yükü: 521.18 kg
+[17:55:29] Hız: 104 km/h | Rot Açısı:  16.37° | Süspansiyon Yükü: 714.63 kg
+[17:55:30] Hız: 020 km/h | Rot Açısı:   4.52° | Süspansiyon Yükü: 619.45 kg
+[17:55:31] Hız: 095 km/h | Rot Açısı:  -6.25° | Süspansiyon Yükü: 252.06 kg
+[17:55:32] Hız: 119 km/h | Rot Açısı:   7.16° | Süspansiyon Yükü: 759.35 kg
+[17:55:33] Hız: 130 km/h | Rot Açısı: -22.72° | Süspansiyon Yükü: 421.48 kg
+[17:55:34] Hız: 039 km/h | Rot Açısı: -34.61° | Süspansiyon Yükü: 632.85 kg
+[17:55:35] Hız: 026 km/h | Rot Açısı:  12.88° | Süspansiyon Yükü: 458.76 kg
+[17:55:36] Hız: 044 km/h | Rot Açısı:  15.88° | Süspansiyon Yükü: 357.88 kg
+[17:55:37] Hız: 108 km/h | Rot Açısı:  18.13° | Süspansiyon Yükü: 878.30 kg  ⚠️ KRİTİK UYARI: Limit aşıldı!
+[17:55:38] Hız: 101 km/h | Rot Açısı: -27.83° | Süspansiyon Yükü: 516.08 kg
+[17:55:39] Hız: 120 km/h | Rot Açısı:  -8.30° | Süspansiyon Yükü: 715.25 kg
+[17:55:40] Hız: 038 km/h | Rot Açısı:   8.29° | Süspansiyon Yükü: 810.76 kg  ⚠️ KRİTİK UYARI: Limit aşıldı!
+[17:55:41] Hız: 109 km/h | Rot Açısı:  14.98° | Süspansiyon Yükü: 667.59 kg
+[17:55:42] Hız: 049 km/h | Rot Açısı:  23.83° | Süspansiyon Yükü: 873.68 kg  ⚠️ KRİTİK UYARI: Limit aşıldı!
+[17:55:43] Hız: 067 km/h | Rot Açısı:   4.84° | Süspansiyon Yükü: 531.79 kg
+[17:55:44] Hız: 059 km/h | Rot Açısı:  12.21° | Süspansiyon Yükü: 589.02 kg
+
+--- YENİ TEST SÜRÜŞÜ: 2026-08-16 18:02:57 ---
+[18:02:57] Hız: 072 km/h | Rot Açısı:  26.73° | Süspansiyon Yükü: 436.24 kg
+[18:02:58] Hız: 102 km/h | Rot Açısı:  32.05° | Süspansiyon Yükü: 894.29 kg  ⚠️ KRİTİK UYARI: Limit aşıldı!
+[18:02:59] Hız: 048 km/h | Rot Açısı:  23.40° | Süspansiyon Yükü: 641.63 kg
+[18:03:00] Hız: 024 km/h | Rot Açısı:   5.06° | Süspansiyon Yükü: 604.58 kg
+[18:03:01] Hız: 021 km/h | Rot Açısı: -34.99° | Süspansiyon Yükü: 873.39 kg  ⚠️ KRİTİK UYARI: Limit aşıldı!
+[18:03:02] Hız: 125 km/h | Rot Açısı:  21.59° | Süspansiyon Yükü: 314.70 kg
+[18:03:03] Hız: 074 km/h | Rot Açısı:   9.62° | Süspansiyon Yükü: 832.01 kg  ⚠️ KRİTİK UYARI: Limit aşıldı!
+[18:03:04] Hız: 095 km/h | Rot Açısı:  30.34° | Süspansiyon Yükü: 475.32 kg
+[18:03:05] Hız: 106 km/h | Rot Açısı:  23.53° | Süspansiyon Yükü: 383.08 kg
+[18:03:06] Hız: 134 km/h | Rot Açısı:  25.89° | Süspansiyon Yükü: 350.80 kg
+[18:03:07] Hız: 088 km/h | Rot Açısı: -21.80° | Süspansiyon Yükü: 452.05 kg
+[18:03:08] Hız: 025 km/h | Rot Açısı:   3.11° | Süspansiyon Yükü: 640.12 kg
+
+--- YENİ TEST SÜRÜŞÜ: 2026-08-16 18:03:09 ---
+[18:03:09] Hız: 040 km/h | Rot Açısı: -16.96° | Süspansiyon Yükü: 535.93 kg
+[18:03:10] Hız: 085 km/h | Rot Açısı: -32.94° | Süspansiyon Yükü: 628.77 kg
+[18:03:11] Hız: 020 km/h | Rot Açısı:  12.26° | Süspansiyon Yükü: 685.14 kg
+[18:03:12] Hız: 137 km/h | Rot Açısı:  26.37° | Süspansiyon Yükü: 448.36 kg
+[18:03:13] Hız: 028 km/h | Rot Açısı:   1.32° | Süspansiyon Yükü: 641.39 kg
+[18:03:14] Hız: 032 km/h | Rot Açısı:   2.58° | Süspansiyon Yükü: 828.24 kg  ⚠️ KRİTİK UYARI: Limit aşıldı!
+[18:03:15] Hız: 140 km/h | Rot Açısı:  30.22° | Süspansiyon Yükü: 402.84 kg
+[18:03:16] Hız: 039 km/h | Rot Açısı:  -6.04° | Süspansiyon Yükü: 890.25 kg  ⚠️ KRİTİK UYARI: Limit aşıldı!
+[18:03:17] Hız: 084 km/h | Rot Açısı: -26.86° | Süspansiyon Yükü: 573.67 kg
+[18:03:18] Hız: 040 km/h | Rot Açısı: -27.74° | Süspansiyon Yükü: 863.28 kg  ⚠️ KRİTİK UYARI: Limit aşıldı!
+
+--- YENİ TEST SÜRÜŞÜ: 2026-08-16 18:03:21 ---
+[18:03:21] Hız: 042 km/h | Rot Açısı:  15.14° | Süspansiyon Yükü: 387.07 kg
+[18:03:22] Hız: 070 km/h | Rot Açısı:  29.86° | Süspansiyon Yükü: 899.23 kg  ⚠️ KRİTİK UYARI: Limit aşıldı!
+[18:03:23] Hız: 102 km/h | Rot Açısı: -34.98° | Süspansiyon Yükü: 590.27 kg
+
+--- YENİ TEST SÜRÜŞÜ: 2026-08-16 18:10:22 ---
+[18:10:22] Hız: 134 km/h | Rot Açısı:  12.07° | Süspansiyon Yükü: 472.60 kg
+[18:10:23] Hız: 054 km/h | Rot Açısı: -10.55° | Süspansiyon Yükü: 294.21 kg
+[18:10:24] Hız: 090 km/h | Rot Açısı:  10.11° | Süspansiyon Yükü: 460.08 kg
