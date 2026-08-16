@@ -28,5 +28,6 @@ The system includes a **Critical Load Warning** triggered at 800 kg to simulate 
 2. Install the required visualization library:
    ```bash
    pip install matplotlib
+
 ##👨‍💻 Developer
 Ege Zabun - Mechanical Engineering Student
